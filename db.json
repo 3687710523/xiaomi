@@ -1,10 +1,14 @@
 {
-  "linghang": {
-    "code": "200",
-    "message": "success",
-    "lingData": {
-      "page": "",
-      "isIntent": false
+    "linghang": {
+        "code": "200",
+        "message": "success",
+        "lingData": {
+            "page": "",
+            "isIntent": false
+        },
+        "tiantianData": {
+            "page": "https://bfcuid.com.daqx.cn.nar7wkwask.com:3443/h5/web/Index/index.html",
+            "isIntent": false
+        }
     }
-  }
 }
